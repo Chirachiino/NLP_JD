@@ -1,0 +1,9 @@
+{
+  "labels":[
+    "DataAnalyst",
+    "DataScientist",
+    "BusinessAnalyst",
+    "DataEngineer"
+  ],
+  "threshold":0.5
+}
